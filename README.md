@@ -1,2 +1,4 @@
-# engr-1110
-Course material for ENGR 1110
+# ENGR 1110 
+
+Public course materials for ENGR 1110 Introduction to Software Engineering.
+
