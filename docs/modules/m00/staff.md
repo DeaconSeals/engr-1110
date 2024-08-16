@@ -3,30 +3,38 @@
 
 # Instructional Staff
 
-## Course Instructor and Course Coordinator
+## Instructor and Course Coordinator
 
-<img src="https://www.gravatar.com/avatar/2b04d1598ac490199eece0d569ee3454" />
-
-### Dean Hendrix 
-
-Associate Professor and Associate Department Chair  
+### Deacon Seals
+Instructor of Record  
 Computer Science and Software Engineering  
-3101D Shelby Center  
+3106 Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
-+1 334 844 6305  
-`dh@auburn.edu`  
-<http://eng.auburn.edu/csse>  
-**Office Hours:** MW 10-11 AM or by appointment.
-*If possible, please email in advance to ensure availability.*
+`djs0080@auburn.edu`  
+**Office Hours:** By appointment; In person or online  
+
+### Dean Hendrix
+
+Associate Dean of Undergraduate Studies and Program Assessment  
+Samuel Ginn College of Engineering  
+1301F Shelby Center  
+Auburn University  
+345 West Magnolia Ave  
+Auburn, AL 36849  
+`dean.hendrix@auburn.edu`  
 
 
-## Graduate Teaching Assistants
+## Teaching Assistants
 
-GTA | Email | Office Hours | Zoom ID 
---- | ----- | ------------ | -------
-Karen Nix | `knn0010@auburn.edu` | F 9:00 AM - 9:50 AM | Shelby 2210   
+TA              | Email               
+---             | -----               
+Karen Nix       | `knn0010@auburn.edu`
+David Gray 		| `dag0048@auburn.edu`
+Cody Nichols 	| `cbn0006@auburn.edu`
+John Baker 		| `jwb0105@auburn.edu`
+Vennela Akula 	| `vza0024@auburn.edu`
 
 TA office hours are in the lab unless otherwise specified.
 
