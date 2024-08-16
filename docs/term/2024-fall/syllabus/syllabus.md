@@ -1,7 +1,7 @@
 
 ---
 
-# ENGR 1110 Introduction to Software Engineering <br> Spring 2024 Course Syllabus
+# ENGR 1110 Introduction to Software Engineering <br> Fall 2024 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
