@@ -24,16 +24,16 @@ Section | Day | Time | Location | Staff
 
 Section   | Day  | Time | Location | Staff  
 -------   | ---  | ---- | -------- | -----  
-001       | MWF  | 10:00 AM - 10:50 AM | Shelby 2205 | TBD     
-002       | MWF  | 10:00 AM - 10:50 AM | Shelby 2210 | TBD     
-005       | MWF  | 10:00 AM - 10:50 AM | Shelby 2125 | TBD     
-006       | MWF  | 10:00 AM - 10:50 AM | Shelby 2122 | TBD     
-007       | MWF  | 10:00 AM - 10:50 AM | Shelby 2129 | TBD     
-027       | MWF  | 11:00 AM - 11:50 AM | Shelby 2205 | TBD     
-028       | MWF  | 11:00 AM - 11:50 AM | Shelby 2210 | TBD     
-029       | MWF  | 11:00 AM - 11:50 AM | Shelby 2125 | TBD     
-030       | MWF  | 11:00 AM - 11:50 AM | Shelby 2122 | TBD     
-031       | MWF  | 11:00 AM - 11:50 AM | Shelby 2129 | TBD     
+001       | MWF  | 10:00 AM - 10:50 AM | Shelby 2205 | David Gray     
+002       | MWF  | 10:00 AM - 10:50 AM | Shelby 2210 | Cody Nichols   
+005       | MWF  | 10:00 AM - 10:50 AM | Shelby 2125 | Karen Nix     
+006       | MWF  | 10:00 AM - 10:50 AM | Shelby 2122 | William Baker     
+007       | MWF  | 10:00 AM - 10:50 AM | Shelby 2129 | Vennela Akula     
+027       | MWF  | 11:00 AM - 11:50 AM | Shelby 2205 | David Gray     
+028       | MWF  | 11:00 AM - 11:50 AM | Shelby 2210 | Cody Nichols     
+029       | MWF  | 11:00 AM - 11:50 AM | Shelby 2125 | Karen Nix     
+030       | MWF  | 11:00 AM - 11:50 AM | Shelby 2122 | William Baker     
+031       | MWF  | 11:00 AM - 11:50 AM | Shelby 2129 | Vennela Akula     
 
 # Instructional Mode
 
@@ -158,7 +158,7 @@ TA              | Email
 Karen Nix       | `knn0010@auburn.edu`
 David Gray 		| `dag0048@auburn.edu`
 Cody Nichols 	| `cbn0006@auburn.edu`
-John Baker 		| `jwb0105@auburn.edu`
+William Baker 		| `jwb0105@auburn.edu`
 Vennela Akula 	| `vza0024@auburn.edu`
 
 TA office hours are in the lab unless otherwise specified.
