@@ -129,7 +129,7 @@ this semester.** Even so, these examples allow you to see elements of a course
 project from the team's perspective.
 
 - [https://colab.research.google.com/drive/1v6NeUvjPGLBtovSJ6z7vKX6N7d-Rh_rq?usp=sharing#scrollTo=OlUQb3grVF1-.]( https://colab.research.google.com/drive/1v6NeUvjPGLBtovSJ6z7vKX6N7d-Rh_rq?usp=sharing#scrollTo=OlUQb3grVF1-.)
-- [https://auburn.instructure.com/courses/1520155/files/folder/Project/Examples]([https://auburn.instructure.com/courses/1520155/files/folder/Project/Examples)
+- [https://auburn.instructure.com/courses/1589764/files/folder/Project/Examples](https://auburn.instructure.com/courses/1589764/files/folder/Project/Examples)
 
 
 
