@@ -14,20 +14,12 @@ proactive. These are good strategies for success.
 
 # Module Objectives
 
-At the end of this module you should be able to understand and apply the
-following concepts from Perusall:
+At the end of this module you should be able to understand the
+following technical and engineering awareness concepts:
 
-- Opening and using Perusall from Canvas
-- Perusall navigation bar, icons, hashtags, chats
-- Making comments in Perusall for text, video, and PDFs
-- Grading rubric for assignment in Perusall 
-
-At the end of this module you should be able to understand the following
-concepts from cultural intelligence:
-
-- A working definition of cultural intelligence (CQ)
-- Contrast between cultural intelligence and emotional intelligence 
-- The importance of CQ in leadership, teamwork, and collaboration
+- A basic understanding of what data centers and cloud computing are
+- Contrast between the benefits and concerns of cloud computing regarding economic, social, and environmental factors
+- An awareness of the ethical, global, economic, social, and environmental issues surrounding the development and use of AI
 
 At the end of this module you should be able to understand and apply the
 following concepts in Python and data science:
