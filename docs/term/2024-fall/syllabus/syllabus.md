@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 16, 2024*
+*Published: October 18, 2024*
 
 ---
 
@@ -97,7 +97,6 @@ By the end of this course, students will demonstrate an ability to:
 By the end of this course, students will demonstrate an ability to: 
 
 - Implement and evaluate computing-based solutions expressed in a programming language.
-- Recognize the importance of cultural intelligence in a professional context
 
 
 ---
@@ -180,8 +179,7 @@ the following categories.
 - **Team Project** (30%): A software development project will be assigned and must be
   completed in teams.
 
-- **Cultural Intelligence** (10%): Graded work focused on developing cultural
-  competency in a professional context.
+- **Engineering Awareness** (10%): Graded work focused on developing awareness of ethical, global, cultural, economic, social, and environmental factors in a professional context.
 
 - **Attendance and Engagement** (10%): Attendance is required in lecture and lab,
   and full engagement is encouraged.
@@ -233,10 +231,10 @@ Module 06 | Mon 30 Sep - Sun 06 Oct | Scrum; Python strings
 Module 07 | Mon 07 Oct - Sun 13 Oct | Project planning; Python lists, dictionaries, and modules   
 Module 08 | Mon 14 Oct - Sun 20 Oct | Project Concept; Python files and plotting   
 Module 09 | Mon 21 Oct - Sun 27 Oct | Project planning; Python for data science   
-Module 10 | Mon 28 Oct - Sun 03 Nov | Sprint 1; Cultural intelligence   
-Module 11 | Mon 04 Nov - Sun 10 Nov | Sprint 2; Alpha Release; Cultural intelligence   
-Module 12 | Mon 11 Nov - Sun 17 Nov | Sprint 3; Cultural intelligence   
-Module 13 | Mon 18 Nov - Sun 01 Dec | Sprint 4; Beta Release; Cultural intelligence   
+Module 10 | Mon 28 Oct - Sun 03 Nov | Sprint 1; Engineering Awareness   
+Module 11 | Mon 04 Nov - Sun 10 Nov | Sprint 2; Alpha Release; Engineering Awareness   
+Module 12 | Mon 11 Nov - Sun 17 Nov | Sprint 3; Engineering Awareness   
+Module 13 | Mon 18 Nov - Sun 01 Dec | Sprint 4; Beta Release; Engineering Awareness   
 Module 14 | Mon 02 Dec - Fri 06 Dec | Presentations    
 
 
