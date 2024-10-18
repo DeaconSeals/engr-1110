@@ -4,7 +4,7 @@
 
 - *Where’s my data? Implications of cloud computing for you!*, [Matthias Farwick](https://scholar.google.at/citations?user=RZvPZ9gAAAAJ&hl=de), [TEDxInnsbruck](https://www.ted.com/about/programs-initiatives/tedx-program), 2021 (accessible via video link in Canvas)
 
-- *The Environmental Impacts of AI -- Primer*, [Sasha Luccioni](https://www.sashaluccioni.com/) and [Bruna Trevelin](https://huggingface.co/brunatrevelin), [Hugging Face](https://huggingface.co/), 2024 (accessible via link in Canvas)
+- *The Environmental Impacts of AI -- Primer*, [Sasha Luccioni](https://www.sashaluccioni.com/), [Bruna Trevelin](https://huggingface.co/brunatrevelin) and [Margaret Mitchell](https://huggingface.co/meg), [Hugging Face](https://huggingface.co/), 2024 (accessible via link in Canvas)
 
 - *Data science for the environment*, [Dan Hammer](https://en.wikipedia.org/wiki/Dan_Hammer), [TEDxBerkeley](https://www.ted.com/about/programs-initiatives/tedx-program), 2018 (accessible via video link in Canvas)
 
