@@ -15,13 +15,10 @@ proactive. These are good strategies for success.
 # Module Objectives
 
 At the end of this module you should be able to understand the following
-concepts from cultural intelligence:
+concepts from Engineering Awareness:
 
-- The CQ model
-- Cultural Drive
-- Cultural Knowledge
-- Cultural Strategy 
-- Cultural Action 
-
+- Global issues surrounding chip fabrication
+- Issues surrounding AI automation and the workplace
+- The Mechanical Turk as a historical example of misleading technology
 
 

@@ -1,10 +1,9 @@
 # Reflecting on the Module
 
 This module provided a high-level overview of data science and how Python is
-used in that context. The module also introduced the idea of **cultural
-intelligence** and its importance in the context of engineering. Finally, the
-module included a period of project planning in which you planned out the
-coming four development sprints for your project.
+used in that context. The module also introduced the to **Engineering 
+Awareness**. Finally, the module included a period of project planning in which
+you planned out the coming four development sprints for your project.
 
 Take time now to review and reflect on this module and the work you've done.
 

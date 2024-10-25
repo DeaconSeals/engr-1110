@@ -4,7 +4,11 @@
 [Lecture Notes](notes/m10lecture.pdf)
 -->
 
-- *Leading with Cultural Intelligence The Real Secret to Success*, [David Livermore](https://davidlivermore.com/about_2/), 2022, Chapters 3 and 4. (accessible via Perusal link in Canvas)
+- *AI’s Single Point of Failure*, [Rob Toews](https://www.ted.com/speakers/rob_toews), [TEDAI](https://www.ted.com/about/programs-initiatives/tedx-program), 2023 (accessible via video link in Canvas)
+
+- *AI and the paradox of self-replacing workers*, [Madison Mohns](https://www.ted.com/speakers/madison_mohns), [TEDxWrigleyville](https://www.ted.com/about/programs-initiatives/tedx-program), 2023 (accessible via video link in Canvas)
+
+- *The Turk*, chess.com (accessible via link in Canvas)
 
 - Python Software Foundation: [https://python.org/](https://python.org/)
 - Official Python Documentation: [https://docs.python.org/](https://docs.python.org/)
