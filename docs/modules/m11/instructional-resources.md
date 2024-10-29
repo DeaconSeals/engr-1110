@@ -4,8 +4,6 @@
 [Lecture Notes](notes/m10lecture.pdf)
 -->
 
-- *Cybersecurity in the age of AI*, Adi Irani, [TEDxDESC Youth](https://www.ted.com/about/programs-initiatives/tedx-program), 2024 (accessible via video link in Canvas)
-
 - *The Incredible Creativity of Deepfakes*, [Tom Graham](https://www.ted.com/speakers/tom_graham), [TED2023](https://conferences.ted.com/past), 2023 (accessible via video link in Canvas)
 
 - *When AI Can Fake Reality, Who Can You Trust?*, [Sam Gregory](https://www.ted.com/speakers/sam_gregory), [TED Democracy](https://conferences.ted.com/past), 2023 (accessible via video link in Canvas)

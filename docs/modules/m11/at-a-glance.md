@@ -17,6 +17,5 @@ proactive. These are good strategies for success.
 At the end of this module you should be able to understand the following
 concepts from Engineering Awareness:
 
-- That AI is having an impact on cybersecurity
 - A basic understanding of what Deepfake technology is capable of
 - Challenges surrounding trust of information in the advent of Deepfakes
