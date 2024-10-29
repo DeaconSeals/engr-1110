@@ -1,10 +1,9 @@
 # Reflecting on the Module
 
-The module continued to explore the idea of **cultural intelligence** and its
-importance in the context of engineering. This module also aligned with
-**Sprint 2**, the second of four Scrum development sprints for the term
-project, and your team made its first delivery for the project: the **Alpha**
-release.
+The module continued to explore **Engineering Awareness** and various related
+topics. This module also aligned with **Sprint 2**, the second of four Scrum
+development sprints for the term project, and your team made its first delivery
+for the project: the **Alpha** release.
 
 Take time now to review and reflect on this module and the work you've done.
 

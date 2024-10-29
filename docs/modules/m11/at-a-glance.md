@@ -15,12 +15,8 @@ proactive. These are good strategies for success.
 # Module Objectives
 
 At the end of this module you should be able to understand the following
-concepts from cultural intelligence:
+concepts from Engineering Awareness:
 
-- The CQ model
-- Ten Cultural Values Dimensions
-- Five CQ Knowledge Practices
-- Direct vs. Indirect Communication
-- Neutral vs. Affective Expressiveness
-- CQ Strategy Practices
-
+- That AI is having an impact on cybersecurity
+- A basic understanding of what Deepfake technology is capable of
+- Challenges surrounding trust of information in the advent of Deepfakes
