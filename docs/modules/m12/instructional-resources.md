@@ -4,7 +4,11 @@
 [Lecture Notes](notes/m10lecture.pdf)
 -->
 
-- *Leading with Cultural Intelligence The Real Secret to Success*, [David Livermore](https://davidlivermore.com/about_2/), 2022, Chapter 7 and Appendix 1. (accessible via Perusal link in Canvas)
+- *Why you need to think like a hacker*, [Ted Harrington](https://www.tedharrington.com/), [TEDxFrankfurt](https://www.ted.com/about/programs-initiatives/tedx-program), 2023 (accessible via video link in Canvas)
+
+- *How Clicking a Single Link Can Cost Millions*, [Ryan Pullen](https://www.ted.com/speakers/ryan_pullen), [TEDxUniversityofBristol](https://www.ted.com/about/programs-initiatives/tedx-program), 2024 (accessible via video link in Canvas)
+
+- *Data Privacy and Consent*, [Fred Cate](https://en.wikipedia.org/wiki/Fred_Cate), [TEDxIndianaUniversity](https://www.ted.com/about/programs-initiatives/tedx-program), 2020 (accessible via video link in Canvas)
 
 - Python Software Foundation: [https://python.org/](https://python.org/)
 - Official Python Documentation: [https://docs.python.org/](https://docs.python.org/)

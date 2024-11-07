@@ -15,10 +15,8 @@ proactive. These are good strategies for success.
 # Module Objectives
 
 At the end of this module you should be able to understand the following
-concepts from cultural intelligence:
+concepts from Engineering Awareness:
 
-- The CQ model
-- CQ Strategy
-- Authenticity in cross-cultural interactions
-- Adaptation in cross-cultural interactions
-
+- How hackers approach problems
+- Low-tech security attacks and how they use personal information
+- The implications of consent-focused legislature on data collection and privacy
