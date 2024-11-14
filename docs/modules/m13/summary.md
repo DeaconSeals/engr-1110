@@ -1,7 +1,7 @@
 # Reflecting on the Module
 
-This module concludes our exploration of **cultural intelligence** and its
-importance in the context of engineering. This module also aligned with
+This module concludes our exploration of **Engineering Awraeness** and its
+important topics in software engineering. This module also aligned with
 **Sprint 4**, the final Scrum development sprint which culminated in the
 project **Beta** release and **Presentation** slides.
 

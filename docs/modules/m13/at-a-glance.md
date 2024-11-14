@@ -11,11 +11,3 @@ begin your work early in the module to allow the material to sink in. If you
 don't understand something or have a question, it is crucial that you reach out
 for help sooner rather than later. Ask questions, engage with the class, and be
 proactive. These are good strategies for success.
-
-# Module Objectives
-
-At the end of this module you should be able to understand the following
-concepts from cultural intelligence:
-
-- The CQ model
-- The importance of cultural intelligence in engineering practice 
