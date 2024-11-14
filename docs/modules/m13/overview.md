@@ -1,4 +1,4 @@
-# Cultural Intelligence; Project Sprint 4  
+# Engineering Awareness; Project Sprint 4  
 
 This module concludes our in-depth exploration of **Engineering Awareness**,
 hopefully leaving you with a good sense of important current topics in software
