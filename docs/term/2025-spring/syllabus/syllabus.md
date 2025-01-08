@@ -1,11 +1,11 @@
 
 ---
 
-# ENGR 1110 Introduction to Software Engineering <br> Fall 2024 Course Syllabus
+# ENGR 1110 Introduction to Computer Science and Software Engineering <br> Spring 2025 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: October 22, 2024*
+*Published: January 08, 2025*
 
 ---
 
@@ -18,22 +18,14 @@ together for lecture and separately (by section) for lab.
 
 Section | Day | Time | Location | Staff  
 ------- | --- | ---- | -------- | -----  
-(all)   | M   | 09:00 AM - 09:50 AM | Foy 258 | Mr. Seals  
+(all)   | M   | 08:00 AM - 08:50 AM | Shelby 1103 | Mr. Seals  
 
 ## Lab
 
 Section   | Day  | Time | Location | Staff  
--------   | ---  | ---- | -------- | -----  
-001       | MWF  | 10:00 AM - 10:50 AM | Shelby 2205 | David Gray     
-002       | MWF  | 10:00 AM - 10:50 AM | Shelby 2210 | Cody Nichols   
-005       | MWF  | 10:00 AM - 10:50 AM | Shelby 2125 | Karen Nix     
-006       | MWF  | 10:00 AM - 10:50 AM | Shelby 2122 | William Baker     
-007       | MWF  | 10:00 AM - 10:50 AM | Shelby 2129 | Vennela Akula     
-027       | MWF  | 11:00 AM - 11:50 AM | Shelby 2205 | David Gray     
-028       | MWF  | 11:00 AM - 11:50 AM | Shelby 2210 | Cody Nichols     
-029       | MWF  | 11:00 AM - 11:50 AM | Shelby 2125 | Karen Nix     
-030       | MWF  | 11:00 AM - 11:50 AM | Shelby 2122 | William Baker     
-031       | MWF  | 11:00 AM - 11:50 AM | Shelby 2129 | Vennela Akula     
+-------   | ---  | ---- | -------- | -----     
+005       | MWF  | 9:00 AM - 9:50 AM | Shelby 2125 | Karen Nix     
+006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2129 | David Gray     
 
 # Instructional Mode
 
@@ -121,8 +113,6 @@ relatively complete, they are not designed to be your only source of information
 on the course material. 
 
 
-
-
 ---
 
 # Instructional Staff
@@ -140,14 +130,12 @@ Auburn, AL 36849
 **Office Hours:** By appointment; In person or online  
 
 ### Dean Hendrix
-
 Associate Dean of Undergraduate Studies and Program Assessment  
 Samuel Ginn College of Engineering  
 1301F Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
-Auburn, AL 36849  
-`dean.hendrix@auburn.edu`  
+Auburn, AL 36849
 
 
 ## Teaching Assistants
@@ -156,9 +144,6 @@ TA              | Email
 ---             | -----               
 Karen Nix       | `knn0010@auburn.edu`
 David Gray 		| `dag0048@auburn.edu`
-Cody Nichols 	| `cbn0006@auburn.edu`
-William Baker 		| `jwb0105@auburn.edu`
-Vennela Akula 	| `vza0024@auburn.edu`
 
 TA office hours are in the lab unless otherwise specified.
 
@@ -221,21 +206,21 @@ boxing](https://en.wikipedia.org/wiki/Timeboxing) principles as follows.
 
 Module    | Dates                   | Content    
 ------    | ----------------------- | -------- 
-Module 00 | Mon 19 Aug - Sun 25 Aug | Getting started in Canvas; Introduction to Spreadsheets, Python   
-Module 01 | Mon 26 Aug - Sun 01 Sep | Getting started in lab; Introduction to Spreadsheets, Python   
-Module 02 | Mon 02 Sep - Sun 08 Sep | Python variables, expressions, and types   
-Module 03 | Mon 09 Sep - Sun 15 Sep | Teams assigned; Python branching    
-Module 04 | Mon 16 Sep - Sun 22 Sep | Project description; Python loops   
-Module 05 | Mon 23 Sep - Sun 29 Sep | Engineering design; Scrum; Python functions   
-Module 06 | Mon 30 Sep - Sun 06 Oct | Scrum; Python strings   
-Module 07 | Mon 07 Oct - Sun 13 Oct | Project planning; Python lists, dictionaries, and modules   
-Module 08 | Mon 14 Oct - Sun 20 Oct | Project Concept; Python files and plotting   
-Module 09 | Mon 21 Oct - Sun 27 Oct | Project planning; Python for data science   
-Module 10 | Mon 28 Oct - Sun 03 Nov | Sprint 1; Engineering Awareness   
-Module 11 | Mon 04 Nov - Sun 10 Nov | Sprint 2; Alpha Release; Engineering Awareness   
-Module 12 | Mon 11 Nov - Sun 17 Nov | Sprint 3; Engineering Awareness   
-Module 13 | Mon 18 Nov - Sun 01 Dec | Sprint 4; Beta Release; Engineering Awareness   
-Module 14 | Mon 02 Dec - Fri 06 Dec | Presentations    
+Module 00 | Mon 13 Jan - Sun 19 Jan | Getting started in Canvas; Introduction to Spreadsheets, Python   
+Module 01 | Mon 20 Jan - Sun 26 Jan | Getting started in lab; Introduction to Spreadsheets, Python   
+Module 02 | Mon 27 Jan - Sun 02 Feb | Python variables, expressions, and types   
+Module 03 | Mon 03 Feb - Sun 09 Feb | Teams assigned; Python branching    
+Module 04 | Mon 10 Feb - Sun 16 Feb | Project description; Python loops   
+Module 05 | Mon 17 Feb - Sun 23 Feb | Engineering design; Scrum; Python functions   
+Module 06 | Mon 24 Feb - Sun 02 Mar | Scrum; Python strings   
+Module 07 | Mon 03 Mar - Sun 16 Mar | Project planning; Python lists, dictionaries, and modules   
+Module 08 | Mon 17 Mar - Sun 23 Mar | Project Concept; Python files and plotting   
+Module 09 | Mon 24 Mar - Sun 30 Mar | Project planning; Python for data science   
+Module 10 | Mon 31 Mar - Sun 06 Apr | Sprint 1; Cultural intelligence   
+Module 11 | Mon 07 Apr - Sun 13 Apr | Sprint 2; Alpha Release; Cultural intelligence   
+Module 12 | Mon 14 Apr - Sun 20 Apr | Sprint 3; Cultural intelligence   
+Module 13 | Mon 21 Apr - Sun 27 Apr | Sprint 4; Beta Release; Cultural intelligence   
+Module 14 | Mon 28 Apr - Wed 30 Apr | Presentations    
 
 
 
@@ -337,9 +322,10 @@ and the collaboration is allowed only within the bounds set by the instructor.
 Your Auburn University email address (`@auburn.edu`) is the university-approved
 form of communication between instructors and students. Emails that you send to
 the instructor or to a teaching assistant must come from your `@auburn.edu`
-email address. Sending emails from addresses other than `@auburn.edu` could
-result in you not receiving a response to your message. Do not send messages via
-Canvas; instead, send an email.
+email address and include the course in the subject (e.g., `[ENGR 1110] Subject`).
+Sending emails from addresses other than `@auburn.edu` could
+result in you not receiving a response to your message. ***Do not send messages
+via Canvas; instead, send an email.***
 
 All course announcements will be posted to Canvas and/or sent to your
 `@auburn.edu` address. All email communications from the instructor to you will

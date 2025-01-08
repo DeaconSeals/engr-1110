@@ -1,6 +1,6 @@
-# Welcome to ENGR 1110 Fall 2024!
+# Welcome to ENGR 1110 Spring 2025!
 
-I hope everyone had a great summer! ENGR 1110 is a fun course, and I'm truly
+I hope everyone had a great winter break! ENGR 1110 is a fun course, and I'm truly
 looking forward to this semester. 
 
 This course provides an introduction to engineering design, teamwork, beginning
@@ -10,16 +10,16 @@ sounds like a lot! But it's all done at a truly introductory level to prepare
 you for a deeper dive into these topics later in your curriculum.
 
 ENGR 1110 is a combined lecture/lab course that meets for 50 minutes each week
-in lecture and for 150 minutes each week in lab. Lecture meets from 9:00 AM -
-9:50 AM Mondays in Foy 258, and labs meet from either 10:00 AM - 10:50 AM MWF
-or 11:00 AM - 11:50 AM MWF in a computer lab assigned to your particular course
-section. There are multiple sections of the course, and they meet together for 
-lecture and separately for lab.
+in lecture and for 150 minutes each week in lab. Lecture meets from 8:00 AM -
+8:50 AM Mondays in Shelby 1103, and labs meet from 9:00 AM - 9:50 AM MWF in a
+computer lab assigned to your particular course section. There are multiple
+sections of the course, and they meet together for lecture and separately for
+lab.
 
 The **labs** don't meet the first week of classes, so the first lab meeting 
-will be **Monday, August 26**.
+will be **Monday, January 20**.
 
-See you in lecture Monday, August 19, and War Eagle!
+See you in lecture Monday, January 13, and War Eagle!
 
 > Deacon Seals
 > Instructor of Record  
