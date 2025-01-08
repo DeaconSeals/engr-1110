@@ -41,12 +41,6 @@ All course sections meet together for lecture but separately for lab.
   required to attend. Attendance will be recorded and will directly affect your
   grade.
 
-- *Office Hours*: Course staff will hold office hours via Zoom at a set time
-  from the second week of classes through the last day of classes. No office
-  hours will be held during finals week. The specific day/time for office hours
-  will be announced during the first week of classes. In-person office hours are
-  available if needed, but only by appointment.
-
 ### Notes On In-Person Attendance
 
 All health and safety policies adopted by Auburn University will be followed in
