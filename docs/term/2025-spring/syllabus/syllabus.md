@@ -25,7 +25,7 @@ Section | Day | Time | Location | Staff
 Section   | Day  | Time | Location | Staff  
 -------   | ---  | ---- | -------- | -----     
 005       | MWF  | 9:00 AM - 9:50 AM | Shelby 2125 | Karen Nix     
-006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2129 | TBD     
+006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2129 | Logan Konopatzke     
 
 # Instructional Mode
 
@@ -137,7 +137,7 @@ Auburn, AL 36849
 TA              | Email               
 ---             | -----               
 Karen Nix       | `knn0010@auburn.edu`
-TBD 		| TBD
+Logan Konopatzke 		| `lmk0047@auburn.edu`
 
 TA office hours are in the lab unless otherwise specified.
 

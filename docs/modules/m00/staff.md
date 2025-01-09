@@ -30,7 +30,7 @@ Auburn, AL 36849
 TA              | Email               
 ---             | -----               
 Karen Nix       | `knn0010@auburn.edu`
-TBD 		| TBD
+Logan Konopatzke 		| `lmk0047@auburn.edu`
 
 TA office hours are in the lab unless otherwise specified.
 
