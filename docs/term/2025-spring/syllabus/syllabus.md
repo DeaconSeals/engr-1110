@@ -25,7 +25,7 @@ Section | Day | Time | Location | Staff
 Section   | Day  | Time | Location | Staff  
 -------   | ---  | ---- | -------- | -----     
 005       | MWF  | 9:00 AM - 9:50 AM | Shelby 2125 | Karen Nix     
-006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2129 | David Gray     
+006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2129 | TBD     
 
 # Instructional Mode
 
@@ -137,7 +137,7 @@ Auburn, AL 36849
 TA              | Email               
 ---             | -----               
 Karen Nix       | `knn0010@auburn.edu`
-David Gray 		| `dag0048@auburn.edu`
+TBD 		| TBD
 
 TA office hours are in the lab unless otherwise specified.
 

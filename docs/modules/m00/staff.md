@@ -30,7 +30,7 @@ Auburn, AL 36849
 TA              | Email               
 ---             | -----               
 Karen Nix       | `knn0010@auburn.edu`
-David Gray 		| `dag0048@auburn.edu`
+TBD 		| TBD
 
 TA office hours are in the lab unless otherwise specified.
 
