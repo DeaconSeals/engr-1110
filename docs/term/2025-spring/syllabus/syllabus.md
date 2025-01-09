@@ -210,10 +210,10 @@ Module 06 | Mon 24 Feb - Sun 02 Mar | Scrum; Python strings
 Module 07 | Mon 03 Mar - Sun 16 Mar | Project planning; Python lists, dictionaries, and modules   
 Module 08 | Mon 17 Mar - Sun 23 Mar | Project Concept; Python files and plotting   
 Module 09 | Mon 24 Mar - Sun 30 Mar | Project planning; Python for data science   
-Module 10 | Mon 31 Mar - Sun 06 Apr | Sprint 1; Cultural intelligence   
-Module 11 | Mon 07 Apr - Sun 13 Apr | Sprint 2; Alpha Release; Cultural intelligence   
-Module 12 | Mon 14 Apr - Sun 20 Apr | Sprint 3; Cultural intelligence   
-Module 13 | Mon 21 Apr - Sun 27 Apr | Sprint 4; Beta Release; Cultural intelligence   
+Module 10 | Mon 31 Mar - Sun 06 Apr | Sprint 1; Engineering Awareness   
+Module 11 | Mon 07 Apr - Sun 13 Apr | Sprint 2; Alpha Release; Engineering Awareness   
+Module 12 | Mon 14 Apr - Sun 20 Apr | Sprint 3; Engineering Awareness   
+Module 13 | Mon 21 Apr - Sun 27 Apr | Sprint 4; Beta Release; Engineering Awareness   
 Module 14 | Mon 28 Apr - Wed 30 Apr | Presentations    
 
 
