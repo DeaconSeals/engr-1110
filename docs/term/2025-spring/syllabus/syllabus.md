@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 08, 2025*
+*Published: January 14, 2025*
 
 ---
 
@@ -319,7 +319,9 @@ the instructor or to a teaching assistant must come from your `@auburn.edu`
 email address and include the course in the subject (e.g., `[ENGR 1110] Subject`).
 Sending emails from addresses other than `@auburn.edu` could
 result in you not receiving a response to your message. ***Do not send messages
-via Canvas; instead, send an email.***
+via Canvas; instead, send an email.*** Teaching assistants may or may
+not be accessible via Discord. ***Discord is not, however, an appropriate
+medium for communication with the instructor; instead, send an email.***
 
 All course announcements will be posted to Canvas and/or sent to your
 `@auburn.edu` address. All email communications from the instructor to you will
