@@ -31,8 +31,6 @@ Section   | Day  | Time | Location | Staff
 007       | MWF  | 10:00 AM - 10:50 AM | Shelby 2129 | Yeshaswee Sai Ganesh Volety
 028       | MWF  | 11:00 AM - 11:50 AM | Shelby 2205 | David Gray, Stone Nguyen, Yeshaswee Sai Ganesh Volety
 029       | MWF  | 11:00 AM - 11:50 AM | Shelby 2210 | Xian Gao, Michael Simmons
-<!-- 030       | MWF  | 11:00 AM - 11:50 AM | Shelby 2125 | TBD 3
-031       | MWF  | 11:00 AM - 11:50 AM | Shelby 2122 | TBD 4 -->
 
 # Instructional Mode
 
