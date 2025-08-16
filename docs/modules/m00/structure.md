@@ -22,25 +22,26 @@ Here is the schedule for [the current semester](http://www.auburn.edu/main/auweb
 
 Module    | Dates                   | Duration 
 ------    | ----------------------- | -------- 
-Module 00 | Mon 13 Jan - Sun 19 Jan | (7 days)
-Module 01 | Mon 20 Jan - Sun 26 Jan | (7 days)^  
-Module 02 | Mon 27 Jan - Sun 02 Feb | (7 days)  
-Module 03 | Mon 03 Feb - Sun 09 Feb | (7 days)  
-Module 04 | Mon 10 Feb - Sun 16 Feb | (7 days)  
-Module 05 | Mon 17 Feb - Sun 23 Feb | (7 days)  
-Module 06 | Mon 24 Feb - Sun 02 Mar | (7 days)  
-Module 07 | Mon 03 Mar - Sun 16 Mar | (7 days)^  
-Module 08 | Mon 17 Mar - Sun 23 Mar | (7 days)  
-Module 09 | Mon 24 Mar - Sun 30 Mar | (7 days)  
-Module 10 | Mon 31 Mar - Sun 06 Apr | (7 days)  
-Module 11 | Mon 07 Apr - Sun 13 Apr | (7 days)  
-Module 12 | Mon 14 Apr - Sun 20 Apr | (7 days)  
-Module 13 | Mon 21 Apr - Sun 27 Apr | (7 days)  
-Module 14 | Mon 28 Apr - Wed 30 Apr | (3 days)  
+Module 00 | Mon 18 Aug - Sun 24 Aug | (7 days)
+Module 01 | Mon 25 Aug - Sun 31 Aug | (7 days)  
+Module 02 | Mon 01 Sep - Sun 07 Sep | (7 days)^  
+Module 03 | Mon 08 Sep - Sun 14 Sep | (7 days)  
+Module 04 | Mon 15 Sep - Sun 21 Sep | (7 days)  
+Module 05 | Mon 22 Sep - Sun 28 Sep | (7 days)  
+Module 06 | Mon 29 Sep - Sun 05 Oct | (7 days)  
+Module 07 | Mon 06 Oct - Sun 12 Oct | (7 days)^  
+Module 08 | Mon 13 Oct - Sun 19 Oct | (7 days)  
+Module 09 | Mon 20 Oct - Sun 26 Oct | (7 days)  
+Module 10 | Mon 27 Oct - Sun 02 Nov | (7 days)  
+Module 11 | Mon 03 Nov - Sun 09 Nov | (7 days)  
+Module 12 | Mon 10 Nov - Sun 16 Nov | (7 days)  
+Module 13 | Mon 17 Nov - Sun 30 Nov | (14 days)^  
+Module 14 | Mon 01 Dec - Fri 05 Dec | (5 days)  
 
 ^ *University No-Class Days:*  
-Mon 20 Jan, M.L. King Jr. Day
-Mon 10 Mar - Fri Mar 14, Spring Break
+Mon 01 Sep, Labor Day
+Thu 09 Oct - Fri 10 Oct, Fall Break
+Mon 24 Nov - Fri 28 Nov, Thanksgiving Break
 
 
 # Module Structure
