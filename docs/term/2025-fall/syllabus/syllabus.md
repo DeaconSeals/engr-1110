@@ -192,11 +192,10 @@ score using the following scale.
 [60, 70)  | D
 [0, 60)   | F
 
-**Extra Credit:** Opportunities for extra credit are sometimes given to the
-entire class, but are never given on an individual basis. Extra credit
-opportunities are often given during class meetings and you must be present to
-earn points.
-
+**Extra Credit:** There are no opportunities for extra credit planned in this
+course. Extra credit opportunities, if deemed appropriate by the instructor,
+will be made available to the entire class. Requests for extra credit to the
+instructor will not receive a response.
 
 ---
 
