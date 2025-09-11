@@ -115,10 +115,10 @@ something that excites you! Impress us!
 
 Deliverable | Points | Due Date   
 ----------- | ------ | --------   
-Concept      | 100    | Mar 23   
-Alpha        | 100    | Apr 13  
-Beta         | 100    | Apr 28  
-Presentation | 100    | Apr 28, 30  
+Concept      | 100    | Oct 19   
+Alpha        | 100    | Nov 09  
+Beta         | 100    | Nov 30  
+Presentation | 100    | Dec 01  
 
 
 # Project Examples
