@@ -19,11 +19,11 @@ work. **This is an INDIVIDUAL assignment, not a team assignment.**
 
 1. Add due dates, checklists, and other features to the card for each lab to
    help plan and schedule your work. At a minimum, you must add the following due dates: 
-    - 8.5 due on Mon 24 Feb 
-    - 8.6 due on Tue 25 Feb 
-    - 8.7 due on Wed 26 Feb 
-    - 8.8 due on Thu 27 Feb
-    - 8.9 due on Fri 28 Feb 
+    - 8.5 due on Mon 29 Sep 
+    - 8.6 due on Tue 30 Sep 
+    - 8.7 due on Wed 01 Oct 
+    - 8.8 due on Thu 02 Oct
+    - 8.9 due on Fri 03 Oct 
 
 1. Move each card to "In Progress" as you begin working on that lab, and then
    move the card to "Done" once you've earned full points. Specifically, do not
