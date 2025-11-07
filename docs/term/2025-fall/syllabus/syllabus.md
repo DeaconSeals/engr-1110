@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 18, 2025*
+*Published: November 7, 2025*
 
 ---
 
@@ -363,6 +363,16 @@ The Auburn University [Policy on Classroom
 Behavior](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassroomBehavior.pdf)
 is strictly followed in this course. Note that this policy extends to all online
 elements of this course.
+
+
+## Divisive Concepts
+“Faculty at Auburn University have the academic freedom to explore, discuss, and teach a wide range 
+of topics in an academic setting. This course may engage with challenging or controversial material, 
+but will do so through an objective, scholarly approach designed to promote critical thinking and 
+independent analysis. Students are encouraged to reflect thoughtfully and respectfully on all material. 
+No student will be required to agree with, endorse, or adopt any concept identified under Alabama law 
+as a Divisive Concept, nor will any student be penalized for choosing not to support or endorse such a 
+concept.”
 
 
 ## Grade Appeals
