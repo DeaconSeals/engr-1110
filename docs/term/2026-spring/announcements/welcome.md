@@ -1,4 +1,4 @@
-# Welcome to ENGR 1110 Spring 2025!
+# Welcome to ENGR 1110 Spring 2026!
 
 I hope everyone had a great winter break! ENGR 1110 is a fun course, and I'm truly
 looking forward to this semester. 
@@ -17,14 +17,14 @@ sections of the course, and they meet together for lecture and separately for
 lab.
 
 The **labs** don't meet the first week of classes, so the first lab meeting 
-will be **Monday, January 20**.
+will be **Monday, January 12**.
 
-See you in lecture Monday, January 13, and War Eagle!
+See you in lecture Monday, January 12, and War Eagle!
 
 > Deacon Seals
 > Instructor of Record  
 > Computer Science and Software Engineering  
-> 3106 Shelby Center  
+> 3139 F Shelby Center  
 > Auburn University  
 > 345 West Magnolia Ave  
 > Auburn, AL 36849  
