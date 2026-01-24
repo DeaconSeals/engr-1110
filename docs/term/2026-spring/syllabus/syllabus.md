@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 6, 2026*
+*Published: January 23, 2026*
 
 ---
 
@@ -150,7 +150,7 @@ the following categories.
 - **Programming Activities** (20%): Participation Activities and Challenge Activities will
   be assigned from selected chapters of the course zyBook.
 
-- **Programming Labs** (30%): zyLabs will be assigned from selected chapters of the course
+- **Programming Labs** (20%): zyLabs will be assigned from selected chapters of the course
   zyBook.
   
 - **Team Project** (30%): A software development project will be assigned and must be
@@ -158,7 +158,7 @@ the following categories.
 
 - **Engineering Awareness** (10%): Graded work focused on developing awareness of ethical, global, cultural, economic, social, and environmental factors in a professional context.
 
-- **Attendance and Engagement** (10%): Attendance is required in lecture and lab,
+- **Attendance and Engagement** (20%): Attendance is required in lecture and lab,
   and full engagement is encouraged.
 
 Your total score (*Total*) for the course will be calculated as follows, where
