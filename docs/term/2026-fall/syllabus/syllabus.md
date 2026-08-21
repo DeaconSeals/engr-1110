@@ -24,9 +24,9 @@ Section | Day | Time | Location | Staff
 
 Section   | Day  | Time | Location | Staff  
 -------   | ---  | ---- | -------- | -----     
-001       | MWF  | 10:00 AM - 10:50 AM | Shelby 2205 | David Gray
+001       | MWF  | 10:00 AM - 10:50 AM | Shelby 2205 | Jacob Benken
 002       | MWF  | 10:00 AM - 10:50 AM | Shelby 2210 | Disharee Bhowmick
-028       | MWF  | 11:00 AM - 11:50 AM | Shelby 2205 | David Gray
+028       | MWF  | 11:00 AM - 11:50 AM | Shelby 2205 | Jacob Benken
 029       | MWF  | 11:00 AM - 11:50 AM | Shelby 2210 | Disharee Bhowmick
 
 # Instructional Mode
@@ -138,8 +138,8 @@ Auburn, AL 36849
 
 TA              | Email               
 ---             | -----               
+Jacob Benken      | `jeb0159@auburn.edu`
 Disharee Bhowmick | `dzb0110@auburn.edu`
-David Gray      | `dag0048@auburn.edu`
 
 TA office hours are in the lab unless otherwise specified.
 
